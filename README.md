@@ -8,6 +8,6 @@ Getting an education at a college.
 - HTML
 - CSS
 - JS
-- jQuery
+- React
 - git ~~(who would have thought)~~ 
 - and B1 English.
